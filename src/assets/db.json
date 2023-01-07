@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "author": "christian",
+      "content": "loremvbozojgborzjzrvzrvirzvborzborzvorzvobzbzobzbvo",
+      "id": 1,
+      "date" : 121121212
+    },
+    {
+      "author": "cloé",
+      "content": "loremvbozojgborzjzrvzrvirzvborzborzvorzvobzbzobzbvo",
+      "id": 2,
+      "date" : 121121212
+    }
+
+
+
+    
+  ]
+  
+}

@@ -1,0 +1,25 @@
+// cible uniquement les éléments qui sont dans navigation 
+
+.navigation {
+    margin: 26px 0;
+    display: flex;
+  
+    a {
+      margin: 10px;
+      padding: 10px;
+      position: relative;
+    }
+    .nav-active {
+      &::after { //permet de souligner l'élément siblé
+        content: "";
+        width: 85%;
+        height: 5px;
+        background: $color-1;
+        position: absolute;
+        bottom: 1px;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    }
+  }
+  
