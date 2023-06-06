@@ -10,7 +10,7 @@
       position: relative;
     }
     .nav-active {
-      &::after { //permet de souligner l'élément siblé
+      &::after { //permet de souligner l'élément ciblé
         content: "";
         width: 85%;
         height: 5px;

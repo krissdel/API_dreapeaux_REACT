@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Runs the app in the development mode.\\ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
